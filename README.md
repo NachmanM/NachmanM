@@ -1,5 +1,9 @@
 # Hi there, I'm Nachman Molko! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=250&color=15F722&multiline=true&width=475&height=100&lines=DevOps+Engineer+;Infrastructure+Automation+%40+Microsoft;Automate+everything)](https://git.io/typing-svg)
+
+---
+
 **Infrastructure Automation Engineer · Microsoft, Tel Aviv**
 
 I build the systems that build the infrastructure, self-service portals, automated provisioning pipelines, and AI-augmented operations tooling. My background spans military network operations (IDF 8200), enterprise VMware environments, and cloud-native AWS/Kubernetes deployments. I write infrastructure-as-code first, scripts second.
