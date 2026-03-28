@@ -52,35 +52,40 @@ Production-grade status page running on a self-managed Kubernetes cluster on AWS
 ### Verified Credentials
 
 
-<p align="left">
-  <a href="YOUR_AWS_CREDLY_LINK_HERE">
-    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="115" style="margin-right: 15px;">
-  </a>
-  <a href="YOUR_CCNA_CREDLY_LINK_HERE">
-    <img src="https://img.favpng.com/1/20/18/ccna-cisco-certifications-ccnp-network-switch-ccie-certification-png-favpng-7S9M1KJ1PUnjm4cQfethDPK8v.jpg" alt="Cisco CCNA" width="115" style="margin-right: 15px;">
-  </a>
-  <a href="YOUR_DEVASC_CREDLY_LINK_HERE">
-    <img src="https://images.credly.com/size/80x80/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="Cisco DevNet Associate" width="115">
-  </a>
-</p>
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" width="140">
+      <a href="https://www.credly.com/earner/earned/badge/8cacaea5-826a-456a-881f-64b4fb6c8b86">
+        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="95" alt="AWS Certified Solutions Architect - Associate">
+      </a>
+    </td>
+    <td align="center" valign="middle" width="140">
+      <a href="https://www.credly.com/earner/earned/badge/aa7195b1-0733-4338-90b7-8d0ec188099e">
+        <img src="https://github.com/NachmanM/NachmanM/raw/main/ccna_icon.png" width="120" alt="Cisco CCNA">
+      </a>
+    </td>
+    <td align="center" valign="middle" width="140">
+      <a href="https://www.credly.com/earner/earned/badge/ab82ead0-2668-4528-b2d8-4f9fea116ed7">
+        <img src="https://github.com/NachmanM/NachmanM/raw/main/ccna_automation_icon.png" width="120" alt="CCNA Automation">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Background
 
-- **Infrastructure Automation Engineer** — Microsoft, Tel Aviv (2025–Present)
+- **Infrastructure Automation Engineer:** Microsoft, Tel Aviv (2025–Present)
   Architecting secure self-service VMware portals; automating infrastructure provisioning with Terraform and Ansible; maintaining Azure-based asset management platforms.
 
-- **Team Lead & Network Technician** — IDF 8200 (2024–2025)
+- **Team Lead & Network Technician:** IDF 8200 (2023–2025)
   Led a 15-person team maintaining 24/7 critical network infrastructure. Advanced PowerShell/CMD diagnostics, Layer 1–4 troubleshooting, secure hardware operations.
 
 - **Nitzanim To Tech** — 1,000-Hour DevOps Training Program (2025–2026)
 
 ---
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nachman--molko-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nachman-molko)
-[![Email](https://img.shields.io/badge/Email-nachman.molko@gmail.com-D14836?style=flat&logo=gmail)](mailto:nachman.molko@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
